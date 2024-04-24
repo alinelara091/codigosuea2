@@ -9,7 +9,7 @@ void setup() {
    fuente = createFont("Britannic Bold", 52); // Carga la fuente Arial con tamaño 32
   textFont(fuente); // Establece la fuente para el texto
   textSize(50); // Tamaño del texto
-   fondo = loadImage("C:/Users/aline/OneDrive/Documentos/kiosko_lerma.jpg"); // Carga la imagen de fondo
+   fondo = loadImage("kiosko_lerma.jpg"); // Carga la imagen de fondo
 }
 
 void draw() {
